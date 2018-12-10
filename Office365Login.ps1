@@ -1,3 +1,5 @@
 Connect AzureAD
 get AzureADUser
-# comentari vvv
+# comentari 
+# tancar el issue
+
